@@ -1,0 +1,902 @@
+pack = "chest" -- Pack name to display on webhook
+iditempack = {13054, 5764, 2034, 5746, 5748, 5742,} -- List of pack id
+namapack = "nian_lunar_chest" -- Pack name in store
+minimumGem = 25000 -- Minimum gems to buy pack
+hargapack = 25000 -- Pack price
+packLimit = 20 -- Limit of buying pack before bp full
+
+- Infernal Shades (Don't Use, bcs Don't Know ItemId)
+pack = "Infernal Shades" -- Pack name to display on webhook
+iditempack = {} -- List of pack id
+namapack = "infernal_shades" -- Pack name in store
+minimumGem = 25000 -- Minimum gems to buy pack
+hargapack = 25000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Tidal Shades (Don't Use, bcs Don't know ItemId)
+pack = "Tidal Shades" -- Pack name to display on webhook
+iditempack = {} -- List of pack id
+namapack = "tidal_shades" -- Pack name in store
+minimumGem = 25000 -- Minimum gems to buy pack
+hargapack = 25000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Verdant Shades (Don't Use, bcs Don't know ItemId)
+pack = "Verdant Shades" -- Pack name to display on webhook
+iditempack = {} -- List of pack id
+namapack = "verdant_shades" -- Pack name in store
+minimumGem = 25000 -- Minimum gems to buy pack
+hargapack = 25000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Transmutabooth
+pack = "Transmutabooth" -- Pack name to display on webhook
+iditempack = {9170} -- List of pack id
+namapack = "transmutation_device" -- Pack name in store
+minimumGem = 25000 -- Minimum gems to buy pack
+hargapack = 25000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Contact Lens Pack
+pack = "Contact Lens Pack" -- Pack name to display on webhook
+iditempack = {6760, 6762, 6764, 6766, 6768} -- List of pack id
+namapack = "contact_lenses" -- Pack name in store
+minimumGem = 15000 -- Minimum gems to buy pack
+hargapack = 15000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Eye Drop Pack
+pack = "Eye Drop Pack" -- Pack name to display on webhook
+iditempack = {5468, 5458, 5460, 5462, 5464} -- List of pack id
+namapack = "eye_drops" -- Pack name in store
+minimumGem = 30000 -- Minimum gems to buy pack
+hargapack = 30000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Turtle Hat
+pack = "Turtle Hat" -- Pack name to display on webhook
+iditempack = {574} -- List of pack id
+namapack = "nyan_hat" -- Pack name in store
+minimumGem = 25000 -- Minimum gems to buy pack
+hargapack = 25000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Tiny Horsie
+pack = "Tiny Horsie" -- Pack name to display on webhook
+iditempack = {592} -- List of pack id
+namapack = "tiny_horsie" -- Pack name in store
+minimumGem = 25000 -- Minimum gems to buy pack
+hargapack = 25000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Pleiadian Star ship
+pack = "Pleiadian Star ship" -- Pack name to display on webhook
+iditempack = {760} -- List of pack id
+namapack = "star_ship" -- Pack name in store
+minimumGem = 25000 -- Minimum gems to buy pack
+hargapack = 25000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Dragon Hand
+pack = "Dragon Hand" -- Pack name to display on webhook
+iditempack = {900} -- List of pack id
+namapack = "dragon_hand" -- Pack name in store
+minimumGem = 50000 -- Minimum gems to buy pack
+hargapack = 50000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Little Red Corvette
+pack = "Little Red Corvette" -- Pack name to display on webhook
+iditempack = {766} -- List of pack id
+namapack = "corvette" -- Pack name in store
+minimumGem = 25000 -- Minimum gems to buy pack
+hargapack = 25000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Stick Horse
+pack = "Stick Horse" -- Pack name to display on webhook
+iditempack = {1012} -- List of pack id
+namapack = "stick_horse" -- Pack name in store
+minimumGem = 25000 -- Minimum gems to buy pack
+hargapack = 25000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Ambulance
+pack = "Ambulance" -- Pack name to display on webhook
+iditempack = {1272} -- List of pack id
+namapack = "ambulance" -- Pack name in store
+minimumGem = 25000 -- Minimum gems to buy pack
+hargapack = 25000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Riding Raptor
+pack = "Riding Raptor" -- Pack name to display on webhook
+iditempack = {1320} -- List of pack id
+namapack = "raptor" -- Pack name in store
+minimumGem = 25000 -- Minimum gems to buy pack
+hargapack = 25000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Mid-Pacific Owl
+pack = "Mid-Pacific Owl" -- Pack name to display on webhook
+iditempack = {1540} -- List of pack id
+namapack = "owl" -- Pack name in store
+minimumGem = 30000 -- Minimum gems to buy pack
+hargapack = 30000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Unicorn Garland
+pack = "Unicorn Garland" -- Pack name to display on webhook
+iditempack = {1648} -- List of pack id
+namapack = "unicorn" -- Pack name in store
+minimumGem = 50000 -- Minimum gems to buy pack
+hargapack = 50000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Star Board
+pack = "Star Board" -- Pack name to display on webhook
+iditempack = {1740} -- List of pack id
+namapack = "starboard" -- Pack name in store
+minimumGem = 30000 -- Minimum gems to buy pack
+hargapack = 30000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Growley Motorcycle
+pack = "Growley Motorcycle" -- Pack name to display on webhook
+iditempack = {1950} -- List of pack id
+namapack = "motorcycle" -- Pack name in store
+minimumGem = 50000 -- Minimum gems to buy pack
+hargapack = 50000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Monkey On Your Back
+pack = "Monkey On Your Back" -- Pack name to display on webhook
+iditempack = {2900} -- List of pack id
+namapack = "monkey_on_back" -- Pack name in store
+minimumGem = 50000 -- Minimum gems to buy pack
+hargapack = 50000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Carrot Sword
+pack = "Carrot Sword" -- Pack name to display on webhook
+iditempack = {2908} -- List of pack id
+namapack = "carrot_sword" -- Pack name in store
+minimumGem = 15000 -- Minimum gems to buy pack
+hargapack = 15000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Red Bicycle
+pack = "Red Bicycle" -- Pack name to display on webhook
+iditempack = {2974} -- List of pack id
+namapack = "red_bicycle" -- Pack name in store
+minimumGem = 30000 -- Minimum gems to buy pack
+hargapack = 30000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Fire Truck
+pack = "Fire Truck" -- Pack name to display on webhook
+iditempack = {3068} -- List of pack id
+namapack = "fire_truck" -- Pack name in store
+minimumGem = 50000 -- Minimum gems to buy pack
+hargapack = 50000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Pet Slime
+pack = "Pet Slime" -- Pack name to display on webhook
+iditempack = {3166} -- List of pack id
+namapack = "pet_slime" -- Pack name in store
+minimumGem = 100000 -- Minimum gems to buy pack
+hargapack = 100000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Dabstep Low Top Sneakers
+pack = "Dabstep Low Top Sneakers" -- Pack name to display on webhook
+iditempack = {6780} -- List of pack id
+namapack = "dabstep_shoes" -- Pack name in store
+minimumGem = 30000 -- Minimum gems to buy pack
+hargapack = 20000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+# World Building
+
+- World Lock
+iditempack = {242} -- List of pack id
+namapack = "world_lock" -- Pack name in store
+minimumGem = 2000 -- Minimum gems to buy pack
+hargapack = 2000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- World Lock Pack (10 World Lock)
+pack = "World Lock" -- Pack name to display on webhook
+iditempack = {242} -- List of pack id
+namapack = "world_lock_10_pack" -- Pack name in store
+minimumGem = 20000 -- Minimum gems to buy pack
+hargapack = 2000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Small Lock
+pack = "Small Lock" -- Pack name to display on webhook
+iditempack = {202} -- List of pack id
+namapack = "small_lock" -- Pack name in store
+minimumGem = 50 -- Minimum gems to buy pack
+hargapack = 50 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Big Lock
+pack = "Big Lock" -- Pack name to display on webhook
+iditempack = {204} -- List of pack id
+namapack = "big_lock" -- Pack name in store
+minimumGem = 200 -- Minimum gems to buy pack
+hargapack = 200 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Huge Lock
+pack = "Huge Lock" -- Pack name to display on webhook
+iditempack = {206} -- List of pack id
+namapack = "huge_lock" -- Pack name in store
+minimumGem = 500 -- Minimum gems to buy pack
+hargapack = 500 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Door Mover
+pack = "Door Mover" -- Pack name to display on webhook
+iditempack = {1404} -- List of pack id
+namapack = "door_mover" -- Pack name in store
+minimumGem = 5000 -- Minimum gems to buy pack
+hargapack = 5000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Vending Machine
+pack = "Vending Machine" -- Pack name to display on webhook
+iditempack = {2978} -- List of pack id
+namapack = "vending_machine" -- Pack name in store
+minimumGem = 8000 -- Minimum gems to buy pack
+hargapack = 8000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- DigiVend Machine
+pack = "DigiVend Machine" -- Pack name to display on webhook
+iditempack = {9268} -- List of pack id
+namapack = "digi_vend" -- Pack name in store
+minimumGem = 12000 -- Minimum gems to buy pack
+hargapack = 12000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Vending Hub Checkout Counter
+pack = "Vending Hub Checkout Counter" -- Pack name to display on webhook
+iditempack = {9270} -- List of pack id
+namapack = "checkout_counter" -- Pack name in store
+minimumGem = 50000 -- Minimum gems to buy pack
+hargapack = 50000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Change of Addres
+pack = "Change of Addres" -- Pack name to display on webhook
+iditempack = {2580} -- List of pack id
+namapack = "change_addr" -- Pack name in store
+minimumGem = 20000 -- Minimum gems to buy pack
+hargapack = 20000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Signal Jammer
+pack = "Signal Jammer" -- Pack name to display on webhook
+iditempack = {226} -- List of pack id
+namapack = "signal_jammer" -- Pack name in store
+minimumGem = 2000 -- Minimum gems to buy pack
+hargapack = 2000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Punch Jammer
+pack = "Punch Jammer" -- Pack name to display on webhook
+iditempack = {1276} -- List of pack id
+namapack = "punch_jammer" -- Pack name in store
+minimumGem = 15000 -- Minimum gems to buy pack
+hargapack = 15000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Zombie Jammer
+pack = "Zombie Jammer" -- Pack name to display on webhook
+iditempack = {1278} -- List of pack id
+namapack = "zombie_jammer" -- Pack name in store
+minimumGem = 15000 -- Minimum gems to buy pack
+hargapack = 15000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Imperial Starship Blast
+pack = "Imperial Starship Blast" -- Pack name to display on webhook
+iditempack = {6420} -- List of pack id
+namapack = "starship_blast" -- Pack name in store
+minimumGem = 1000 -- Minimum gems to buy pack
+hargapack = 1000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- SurgWorld Blast
+pack = "SurgWorld Blast" -- Pack name to display on webhook
+iditempack = {8556} -- List of pack id
+namapack = "surg_blast" -- Pack name in store
+minimumGem = 10000 -- Minimum gems to buy pack
+hargapack = 10000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Bountiful Blast
+pack = "Bountiful Blast" -- Pack name to display on webhook
+iditempack = {8738} -- List of pack id
+namapack = "bountiful_blast" -- Pack name in store
+minimumGem = 5000 -- Minimum gems to buy pack
+hargapack = 5000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Thermonuclear Blast
+pack = "Thermonuclear Blast" -- Pack name to display on webhook
+iditempack = {1402, 10394} -- List of pack id
+namapack = "thermo_blast" -- Pack name in store
+minimumGem = 15000 -- Minimum gems to buy pack
+hargapack = 15000 -- Pack price
+packLimit = 15 -- Limit of buying pack before bp full
+
+- Antigravity Generator
+pack = "Antigravity Generator" -- Pack name to display on webhook
+iditempack = {4992} -- List of pack id
+namapack = "antigravity_generator" -- Pack name in store
+minimumGem = 450000 -- Minimum gems to buy pack
+hargapack = 450000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Building Blocks Machine
+pack = "Building Blocks Machine" -- Pack name to display on webhook
+iditempack = {8196} -- List of pack id
+namapack = "building_blocks_machine" -- Pack name in store
+minimumGem = 8000 -- Minimum gems to buy pack
+hargapack = 8000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Builder's Lock
+pack = "Builder Lock" -- Pack name to display on webhook
+iditempack = {4994} -- List of pack id
+namapack = "builders_lock" -- Pack name in store
+minimumGem = 50000 -- Minimum gems to buy pack
+hargapack = 50000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Sunny
+pack = "Sunny Weather " -- Pack name to display on webhook
+iditempack = {932} -- List of pack id
+namapack = "weather_sunny" -- Pack name in store
+minimumGem = 1000 -- Minimum gems to buy pack
+hargapack = 1000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Night
+pack = "Night Weather" -- Pack name to display on webhook
+iditempack = {934} -- List of pack id
+namapack = "weather_night" -- Pack name in store
+minimumGem = 10000 -- Minimum gems to buy pack
+hargapack = 10000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Arid
+pack = "Arid Weather" -- Pack name to display on webhook
+iditempack = {946} -- List of pack id
+namapack = "weather_arid" -- Pack name in store
+minimumGem = 10000 -- Minimum gems to buy pack
+hargapack = 10000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Rainy City
+pack = "Rainy City Weather" -- Pack name to display on webhook
+iditempack = {984} -- List of pack id
+namapack = "weather_rainy" -- Pack name in store
+minimumGem = 10000 -- Minimum gems to buy pack
+hargapack = 10000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Warp Speed
+pack = "Warp Speed Weather" -- Pack name to display on webhook
+iditempack = {1750} -- List of pack id
+namapack = "weather_warp" -- Pack name in store
+minimumGem = 10000 -- Minimum gems to buy pack
+hargapack = 10000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Mars Blast
+pack = "Mars Blast" -- Pack name to display on webhook
+iditempack = {1136} -- List of pack id
+namapack = "mars_blast" -- Pack name in store
+minimumGem = 15000 -- Minimum gems to buy pack
+hargapack = 15000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Undersea Blast
+pack = "Undersea Blast" -- Pack name to display on webhook
+iditempack = {1533} -- List of pack id
+namapack = "undersea_blast" -- Pack name in store
+minimumGem = 15000 -- Minimum gems to buy pack
+hargapack = 15000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Cave Blast
+pack = "Cave Blast" -- Pack name to display on webhook
+iditempack = {3562} -- List of pack id
+namapack = "cave_blast" -- Pack name in store
+minimumGem = 30000 -- Minimum gems to buy pack
+hargapack = 30000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Stuff
+pack = "Stuff Weather" -- Pack name to display on webhook
+iditempack = {3832} -- List of pack id
+namapack = "weather_stuff" -- Pack name in store
+minimumGem = 50000 -- Minimum gems to buy pack
+hargapack = 50000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Jungle
+pack = "Jungle Blast" -- Pack name to display on webhook
+iditempack = {4774} -- List of pack id
+namapack = "weather_jungle" -- Pack name in store
+minimumGem = 20000 -- Minimum gems to buy pack
+hargapack = 20000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Backgroud
+pack = "Background Weather" -- Pack name to display on webhook
+iditempack = {5000} -- List of pack id
+namapack = "weather_backgd" -- Pack name in store
+minimumGem = 150000 -- Minimum gems to buy pack
+hargapack = 150000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Digital Rain
+pack = "Digital Rain Weather" -- Pack name to display on webhook
+iditempack = {6854} -- List of pack id
+namapack = "digital_rain_weather" -- Pack name in store
+minimumGem = 30000 -- Minimum gems to buy pack
+hargapack = 30000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Treasure Blast
+pack = "Treasure Blast" -- Pack name to display on webhook
+iditempack = {7588, 10394} -- List of pack id
+namapack = "treasure_blast" -- Pack name in store
+minimumGem = 10000 -- Minimum gems to buy pack
+hargapack = 10000 -- Pack price
+packLimit = 20 -- Limit of buying pack before bp full
+
+- Infinity Weather
+pack = "Infinity Weather" -- Pack name to display on webhook
+iditempack = {10058} -- List of pack id
+namapack = "infinity_weather_machine" -- Pack name in store
+minimumGem = 50000 -- Minimum gems to buy pack
+hargapack = 50000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+# Activities
+
+- SSP
+pack = "SSP" -- Pack name to display on webhook
+iditempack = {5706} -- List of pack id
+namapack = "5seed" -- Pack name in store
+minimumGem = 1000 -- Minimum gems to buy pack
+hargapack = 100 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- SSP (10 Pack)
+pack = "SSP 10 Pack" -- Pack name to display on webhook
+iditempack = {5706} -- List of pack id
+namapack = "ssp_10_pack" -- Pack name in store
+minimumGem = 10000 -- Minimum gems to buy pack
+hargapack = 1000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- RSP
+Skip Too Many
+
+- Grow Spray Fertilizer
+pack = "Grow Spray" -- Pack name to display on webhook
+iditempack = {228} -- List of pack id
+namapack = "grow_spray" -- Pack name in store
+minimumGem = 200 -- Minimum gems to buy pack
+hargapack = 200 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Deluxe Grow Spray
+pack = "Deluxe Grow Spray" -- Pack name to display on webhook
+iditempack = {1778} -- List of pack id
+namapack = "deluxe_grow_spray" -- Pack name in store
+minimumGem = 900 -- Minimum gems to buy pack
+hargapack = 900 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Bountiful Seed Pack
+pack = "Bountiful Seed Pack" -- Pack name to display on webhook
+iditempack = {8970} -- List of pack id
+namapack = "bountiful_seed_pack" -- Pack name in store
+minimumGem = 1000 -- Minimum gems to buy pack
+hargapack = 1000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Basic Splicing Kit
+pack = "BASIC SPLICE" -- Pack name to display on webhook
+iditempack = {11, 3567, 13, 57, 17, 381, 1139, 21, 101} -- List of pack id
+namapack = "basic_splice" -- Pack name in store
+minimumGem = 20000 -- Minimum gems to buy pack
+hargapack = 200 -- Pack price
+packLimit = 20 -- Limit of buying pack before bp full
+
+- Surgery Starter Pack 5k
+pack = "Surgery Starter Pack" -- Pack name to display on webhook
+iditempack = {1240, 1256, 8558, 1242, 1244, 1246, 1248} -- List of pack id
+namapack = "surg_starter_pack" -- Pack name in store
+minimumGem = 5000 -- Minimum gems to buy pack
+hargapack = 5000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Surgical Kit
+pack = "Surgical Kit" -- Pack name to display on webhook
+iditempack = {1270, 4316, 4310, 1258, 4312, 4318, 4308, 1260, 1268, 4314, 1264, 1266, 1262, 4296} -- List of pack id
+namapack = "surgical_kit" -- Pack name in store
+minimumGem = 12000 -- Minimum gems to buy pack
+hargapack = 12000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Master Surgeon's Tool Bag
+pack = "Master Surg" -- Pack name to display on webhook
+iditempack = {1270, 4316, 4310, 1258, 4312, 4318, 4308, 1260, 1268, 4314, 1264, 1266, 1262, 4296} -- List of pack id
+namapack = "surg_value_pack" -- Pack name in store
+minimumGem = 45000 -- Minimum gems to buy pack
+hargapack = 45000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Galactic Goodies
+pack = "Galactic Pack" -- Pack name to display on webhook
+iditempack = {6416, 6520, 6538, 6522, 6528, 6540, 6518, 6530, 6524, 6536, 6534, 6532, 6526} -- List of pack id
+namapack = "star_supplies" -- Pack name in store
+minimumGem = 15000 -- Minimum gems to buy pack
+hargapack = 15000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Fishin' Pack
+pack = "Fishin Pack" -- Pack name to display on webhook
+iditempack = {2912, 2914, 5522, 5524, 3044, 3004, 3002} -- List of pack id
+namapack = "fishin_pack" -- Pack name in store
+minimumGem = 10000 -- Minimum gems to buy pack
+hargapack = 10000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Fish Trainin pack
+pack = "Fish Train Pack" -- Pack name to display on webhook
+iditempack = {5536, 5533, 5530} -- List of pack id
+namapack = "fish_training_pack" -- Pack name in store
+minimumGem = 10000 -- Minimum gems to buy pack
+hargapack = 10000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Fish Flake
+pack = "Fish Flake" -- Pack name to display on webhook
+iditempack = {5536} -- List of pack id
+namapack = "fish_flakes" -- Pack name in store
+minimumGem = 7500 -- Minimum gems to buy pack
+hargapack = 7500 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Fish Medicine
+pack = "Fish Medicine" -- Pack name to display on webhook
+iditempack = {5532} -- List of pack id
+namapack = "fish_medicine" -- Pack name in store
+minimumGem = 1500 -- Minimum gems to buy pack
+hargapack = 1500 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Fish Reviver
+pack = "Fish Reviver" -- Pack name to display on webhook
+iditempack = {5534} -- List of pack id
+namapack = "fish_reviver" -- Pack name in store
+minimumGem = 5000 -- Minimum gems to buy pack
+hargapack = 5000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Crime Wave
+pack = "Crime Wave" -- Pack name to display on webhook
+iditempack = {2382, 2380, 2322, 2326, 2328, 2320, 2324, 2336, 2340, 2338, 2332, 2334, 2296, 2292, 2294, 2298, 2300, 2314, 2312, 2310, 2308, 2316} -- List of pack id
+namapack = "crime_wave" -- Pack name in store
+minimumGem = 5000 -- Minimum gems to buy pack
+hargapack = 5000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Silkworm
+pack = "Silkworm" -- Pack name to display on webhook
+iditempack = {3316} -- List of pack id
+namapack = "silkworm" -- Pack name in store
+minimumGem = 42000 -- Minimum gems to buy pack
+hargapack = 7000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Geiger Counter
+pack = "Geiger" -- Pack name to display on webhook
+iditempack = {2204} -- List of pack id
+namapack = "geiger" -- Pack name in store
+minimumGem = 25000 -- Minimum gems to buy pack
+hargapack = 25000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Zombie Defense Pack
+pack = "Zombie Defense" -- Pack name to display on webhook
+iditempack = {768, 790, 788, 774, 786, 782, 776, 780, 784, 764} -- List of pack id
+namapack = "zombie_pack" -- Pack name in store
+minimumGem = 10000 -- Minimum gems to buy pack
+hargapack = 10000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- B.O.O Training Pack
+pack = "B.O.O Pack" -- Pack name to display on webhook
+iditempack = {3720, 3710, 3716, 3714} -- List of pack id
+namapack = "boo_pack" -- Pack name in store
+minimumGem = 10000 -- Minimum gems to buy pack
+hargapack = 10000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Ecto Juicer
+pack = "Ecto Juicer" -- Pack name to display on webhook
+iditempack = {6096} -- List of pack id
+namapack = "ectojuicer" -- Pack name in store
+minimumGem = 30000 -- Minimum gems to buy pack
+hargapack = 30000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Ghost Hunter's Pack
+pack = "Ghost Hunter Pack" -- Pack name to display on webhook
+iditempack = {3720, 6090, 6084, 6082, 6062, 6060} -- List of pack id
+namapack = "ghost_hunting" -- Pack name in store
+minimumGem = 10000 -- Minimum gems to buy pack
+hargapack = 10000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Chemsynth Pack
+pack = "Chemsynth" -- Pack name to display on webhook
+iditempack = {4430, 4432, 4436, 4438, 4440, 4434, 4442} -- List of pack id
+namapack = "chemsynth" -- Pack name in store
+minimumGem = 10000 -- Minimum gems to buy pack
+hargapack = 10000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+# Creativity
+
+- Racing Action Pack
+pack = "Racing Action" -- Pack name to display on webhook
+iditempack = {428, 430, 410, 482, 484, 486, 488, 490, 492, 494, 496} -- List of pack id
+namapack = "race_pack" -- Pack name in store
+minimumGem = 3500 -- Minimum gems to buy pack
+hargapack = 3500 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Composer's Pack
+pack = "Composer's Pack'" -- Pack name to display on webhook
+iditempack = {412, 420, 414, 426, 422, 424, 418, 416} -- List of pack id
+namapack = "music_pack" -- Pack name in store
+minimumGem = 5000 -- Minimum gems to buy pack
+hargapack = 5000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Education Pack
+pack = "Education Pack" -- Pack name to display on webhook
+iditempack = {650, 652, 654, 658, 670, 672, 674, 676, 8870, 8872, 8874, 8876} -- List of pack id
+namapack = "school_pack" -- Pack name in store
+minimumGem = 5000 -- Minimum gems to buy pack
+hargapack = 5000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Dungeon Pack
+pack = "Dungeon Pack" -- Pack name to display on webhook
+iditempack = {680, 682, 684, 686, 688, 690, 694, 696, 692} -- List of pack id
+namapack = "dungeon_pack" -- Pack name in store
+minimumGem = 10000 -- Minimum gems to buy pack
+hargapack = 10000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Fantasy Pack
+pack = "Fantasy Pack" -- Pack name to display on webhook
+iditempack = {583, 600, 604, 594, 606, 608, 596, 598} -- List of pack id
+namapack = "fantasy_pack" -- Pack name in store
+minimumGem = 5000 -- Minimum gems to buy pack
+hargapack = 5000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Vegas Pack
+pack = "Vegas Pack" -- Pack name to display on webhook
+iditempack = {740, 743, 745, 747, 749, 1582, 752, 456, 754, 756, 758, 794, 796, 798} -- List of pack id
+namapack = "vegas_pack" -- Pack name in store
+minimumGem = 20000 -- Minimum gems to buy pack
+hargapack = 20000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Farm Pack
+pack = "Farm Pack" -- Pack name to display on webhook
+iditempack = {866, 872, 880, 884, 888, 886, 890, 892, 894, 896, 898} -- List of pack id
+namapack = "farm_pack" -- Pack name in store
+minimumGem = 8000 -- Minimum gems to buy pack
+hargapack = 8000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Mad Science Kit
+pack = "Science Pack" -- Pack name to display on webhook
+iditempack = {928, 912, 772, 770, 904, 916, 914, 924, 920, 918, 930} -- List of pack id
+namapack = "science_pack" -- Pack name in store
+minimumGem = 5000 -- Minimum gems to buy pack
+hargapack = 5000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- City Pack 
+pack = "City Pack" -- Pack name to display on webhook
+iditempack = {1004, 1002, 1006, 1008, 994, 986, 992, 990, 996, 998, 988,} -- List of pack id
+namapack = "city_pack" -- Pack name in store
+minimumGem = 8000 -- Minimum gems to buy pack
+hargapack = 8000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Wild West Pack
+pack = "Wild West Pack" -- Pack name to display on webhook
+iditempack = {1022, 1030, 1024, 1026, 1028, 1036, 1034, 1032, 1038, 1040, 1042, 1044, 1046, 1048, 1020} -- List of pack id
+namapack = "west_pack" -- Pack name in store
+minimumGem = 8000 -- Minimum gems to buy pack
+hargapack = 8000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Astro Pack
+pack = "Astro Pack" -- Pack name to display on webhook
+iditempack = {1148, 1142, 1144, 1146, 1128, 1130, 1154, 1160, 1164, 1162, 1152} -- List of pack id
+namapack = "astro_pack" -- Pack name in store
+minimumGem = 5000 -- Minimum gems to buy pack
+hargapack = 5000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Prehistoric Pack
+pack = "Prehistoric Pack" -- Pack name to display on webhook
+iditempack = {1330, 1338, 1334, 1332, 1340, 1342, 1332, 1324, 1326, 1328, 1336} -- List of pack id
+namapack = "prehistoric_pack" -- Pack name in store
+minimumGem = 5000 -- Minimum gems to buy pack
+hargapack = 5000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Shop Pack
+pack = "Shop Pack" -- Pack name to display on webhook
+iditempack = {1422, 1426, 1428, 1432, 1430, 1434, 1420, 1436} -- List of pack id
+namapack = "shop_pack" -- Pack name in store
+minimumGem = 10000 -- Minimum gems to buy pack
+hargapack = 10000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Home Pack
+pack = "Home Pack" -- Pack name to display on webhook
+iditempack = {1448, 1450, 1480, 1482, 1472, 1454, 1476, 1478, 1474} -- List of pack id
+namapack = "home_pack" -- Pack name in store
+minimumGem = 5000 -- Minimum gems to buy pack
+hargapack = 5000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Cinema Pack
+pack = "Cinema Pack" -- Pack name to display on webhook
+iditempack = {1588, 1592, 1590, 1594, 1598, 1600, 1604, 1606, 1608, 1596} -- List of pack id
+namapack = "cinema_pack" -- Pack name in store
+minimumGem = 6000 -- Minimum gems to buy pack
+hargapack = 6000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Adventure Pack
+pack = "Adventure Pack" -- Pack name to display on webhook
+iditempack = {1682, 1684, 1706, 4704, 4706, 1694, 1702, 1696, 1698, 1700, 1692, 1704, } -- List of pack id
+namapack = "adventure_pack" -- Pack name in store
+minimumGem = 20000 -- Minimum gems to buy pack
+hargapack = 20000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Rockin Pack
+pack = "Rockin Pack" -- Pack name to display on webhook
+iditempack = {1710, 1712, 1714, 1718, 1732, 1722, 1720, 1724, 1728, 1730, 1726} -- List of pack id
+namapack = "rockin_pack" -- Pack name in store
+minimumGem = 9999 -- Minimum gems to buy pack
+hargapack = 9999 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Game Pack
+pack = "Game Pack " -- Pack name to display on webhook
+iditempack = {1660, 1618, 1662, 1656, 1658} -- List of pack id
+namapack = "game_pack" -- Pack name in store
+minimumGem = 50000 -- Minimum gems to buy pack
+hargapack = 50000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Superhero Pack (Skip Too Many)
+pack = "SuperHero Pack" -- Pack name to display on webhook
+iditempack = {} -- List of pack id
+namapack = "superhero" -- Pack name in store
+minimumGem = 10000 -- Minimum gems to buy pack
+hargapack = 10000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Fashion Pack
+pack = "Fashion Pack" -- Pack name to display on webhook
+iditempack = {2660, 2662, 2664, 2666, 2668, 2670, 2684, 2686, 2688, 2690, 2692, 2694, 2672, 2674, 2676, 2678, 2680, 2682, 2708, 2646} -- List of pack id
+namapack = "fashion_pack" -- Pack name in store
+minimumGem = 6000 -- Minimum gems to buy pack
+hargapack = 6000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Sportsball Pack
+pack = "Sportsball Pack" -- Pack name to display on webhook
+iditempack = {2896, 2898, 2892, 2894, 6668, 2902, 2904, 6674, 6676, 2878, 2880, 2888, 2890, 2886, 2906, 6672} -- List of pack id
+namapack = "sportsball_pack" -- Pack name in store
+minimumGem = 20000 -- Minimum gems to buy pack
+hargapack = 20000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Firefighter Pack
+pack = "FireFighter Pack" -- Pack name to display on webhook
+iditempack = {3048, 3060, 3056, 3052, 3066, 3072} -- List of pack id
+namapack = "firefighter" -- Pack name in store
+minimumGem = 10000 -- Minimum gems to buy pack
+hargapack = 10000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Steampack
+pack = "Steam Pack" -- Pack name to display on webhook
+iditempack = {3260, 3270, 3282, 3284, 3280, 3292} -- List of pack id
+namapack = "steampack" -- Pack name in store
+minimumGem = 20000 -- Minimum gems to buy pack
+hargapack = 20000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Painter's Pack
+pack = "Paint Pack" -- Pack name to display on webhook
+iditempack = {3494, 3478, 3480, 3482, 3484, 3486, 3488, 3490, 3492} -- List of pack id
+namapack = "paintbrush" -- Pack name in store
+minimumGem = 30000 -- Minimum gems to buy pack
+hargapack = 30000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Paleontologi's Kit
+pack = "Palentologi Pack" -- Pack name to display on webhook
+iditempack = {4132, 3932, 3934, 4128, 3938} -- List of pack id
+namapack = "paleo_kit" -- Pack name in store
+minimumGem = 20000 -- Minimum gems to buy pack
+hargapack = 20000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- CyBlock Starter Pack
+pack = "Cyblock Starter Pack" -- Pack name to display on webhook
+iditempack = {5668, 5672, 5674, 5676, 5678, 5680} -- List of pack id
+namapack = "robot_starter_pack" -- Pack name in store
+minimumGem = 5000 -- Minimum gems to buy pack
+hargapack = 5000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- CyBlocks Command Pack
+pack = "CyBlock Command Pack" -- Pack name to display on webhook
+iditempack = {5672, 5674, 5676, 5678, 5680, 5682, 5684, 5686, 5688, 5690, 5692, 5694, 5696, 5698, 5700, 5702, 5704} -- List of pack id
+namapack = "robot_command_pack" -- Pack name in store
+minimumGem = 2000 -- Minimum gems to buy pack
+hargapack = 2000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Cybot Pack
+pack = "Cybot Pack" -- Pack name to display on webhook
+iditempack = {5710, 5670, 5668, 5708, 6146} -- List of pack id
+namapack = "robot_pack" -- Pack name in store
+minimumGem = 15000 -- Minimum gems to buy pack
+hargapack = 15000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Gangland Style
+pack = "Gangland Pack" -- Pack name to display on webhook
+iditempack = {462, 464, 466, 468, 474, 476, 470, 472, 480, 478} -- List of pack id
+namapack = "gang_pack" -- Pack name in store
+minimumGem = 5000 -- Minimum gems to buy pack
+hargapack = 5000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
+
+- Alien Scanner Pack
+pack = "Alien Scanner Pack" -- Pack name to display on webhook
+iditempack = {11406} -- List of pack id
+namapack = "alien_scanner_pack" -- Pack name in store
+minimumGem = 35000 -- Minimum gems to buy pack
+hargapack = 35000 -- Pack price
+packLimit = 200 -- Limit of buying pack before bp full
